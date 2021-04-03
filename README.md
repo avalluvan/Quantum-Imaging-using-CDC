@@ -1,6 +1,6 @@
 # Course-Project-PH202
 
-Documentation and code repository for the PH 219 course project
+Documentation and code repository for the PH 202 course project
 
 ### Table Of Contents:
 
