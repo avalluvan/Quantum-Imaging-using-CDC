@@ -1,6 +1,6 @@
 # Course-Project-PH202
 
-Documentation and code repository for the PH 202 course project
+Documentation and code repository for the PH 202 course project. The final submission can be viewed [here](https://github.com/loqm/PH202_2020)
 
 ### Table Of Contents:
 
