@@ -1,4 +1,4 @@
-# Course-Project-PH202
+# Quantum Imaging using Complex Degree of Coherence
 
 Documentation and code repository for the PH 202 course project. The final submission can be viewed [here](https://github.com/loqm/PH202_2020)
 
