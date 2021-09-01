@@ -1,18 +1,12 @@
 # Quantum Imaging using Complex Degree of Coherence
 
-Documentation and code repository for the PH 202 course project. The final submission can be viewed [here](https://github.com/loqm/PH202_2020)
+Documentation and code repository for the PH 202 course project. The final submission can be viewed [here](https://github.com/loqm/PH202_2020). The results are presented in the form of an interactive Jupyter notebook, also referred to as an executable paper.
 
-### Table Of Contents:
+In an ‘executable paper’, authors have the ability to embed chunks of executable code and data into their papers, and readers may execute that code within the framework of the research article. The executable paper combines the narrative of a traditional scholarly paper with embedded computational experiments that run chunks of code on prespecified or interactively provided datasets, producing verifiable results.
 
-*Files*
- - To declutter the head directory and save all images and multimedia files that are used in other README sections
- 
 *References*
  - [This](/References/Optimal%20Imaging%20of%20Remote%20Bodies%20using%20Quantum%20Detectors.pdf) is the main reference based on which the executable paper is created: Optimal Imaging of Remote Bodies using Quantum Detectors
- - Links to the research paper and other useful resources referred to
- 
-*Results*
- - The final observations, plots and presentation documented in a single Jupyter notebook
+ - Links to other research papers and supplementary resources can be found under the References directory
 
 - - - -
 
